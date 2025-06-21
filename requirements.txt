@@ -1,4 +1,5 @@
 altair==5.5.0
+seaborn
 asttokens==3.0.0
 attrs==25.3.0
 certifi==2025.4.26
